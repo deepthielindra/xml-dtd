@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE people SYSTEM "people.dtd">
+<people>
+	<Employee Employeed="YES">
+		<name>Deepthi</name>
+		<age>21</age>
+		<salary>100000</salary>
+		<address>Kavali</address>
+	</Employee>
+
+	<Employee Employeed="NO">
+		<name>Dinesh</name>
+		<age>27</age>
+		<salary>500000</salary>
+		<address>Chennai</address>
+		
+	</Employee>
+
+	<Employee Employeed="YES">
+		<name>Swamy</name>
+		<age>34</age>
+		<salary>100000</salary>
+		<address>Noida</address>
+		
+	</Employee>
+
+	<Employee Employeed="NO">
+		<name>Lakshmi</name>
+		<age>22</age>
+		<salary>60000</salary>
+		<address>Delhi</address>
+		
+	</Employee>
+
+	<Employee Employeed="YES">
+		<name>Vasantha</name>
+		<age>32</age>
+		<salary>100000</salary>
+		<address>Kavali</address>
+		
+	</Employee>
+	
+</people>
